@@ -1,0 +1,451 @@
+{
+  "curso": {
+    "titulo": "Rotación de Prehabilitación Quirúrgica",
+    "subtitulo": "Programa de rotación para residente de Anestesiología en el Servicio de Kinesiología / Rehabilitación",
+    "identificacion": [
+      [
+        "Nombre de la rotación",
+        "Prehabilitación y evaluación funcional del paciente quirúrgico"
+      ],
+      [
+        "Programa",
+        "Especialidad de Anestesiología y Reanimación"
+      ],
+      [
+        "Unidad donde se realiza",
+        "Servicio de Kinesiología – Área de Rehabilitación"
+      ],
+      [
+        "Duración",
+        "1 mes (4 semanas + jornada de cierre)"
+      ],
+      [
+        "Período",
+        "Noviembre 2026 (lunes 2 al lunes 30 de noviembre)"
+      ],
+      [
+        "Días hábiles programados",
+        "21 días"
+      ],
+      [
+        "Docente guía / encargado",
+        "[Completar]"
+      ],
+      [
+        "Staff kinesiología supervisor",
+        "[Completar]"
+      ],
+      [
+        "Residente",
+        "[Completar]"
+      ]
+    ],
+    "descripcion": [
+      "La prehabilitación es el proceso, dentro del continuo de la atención, que ocurre entre el diagnóstico y el inicio del tratamiento quirúrgico, orientado a mejorar la capacidad funcional del paciente para que tolere mejor el estrés de la cirugía y se recupere más rápido. Es una intervención multimodal (ejercicio, nutrición, apoyo psicológico y optimización médica) que complementa los protocolos de recuperación acelerada (ERAS).",
+      "Esta rotación busca que el residente de Anestesiología incorpore la evaluación de la capacidad funcional como parte de la valoración preoperatoria, interprete sus resultados en la estimación del riesgo perioperatorio y participe, junto al equipo de kinesiología, en el diseño y seguimiento de programas de prehabilitación y de rehabilitación postoperatoria precoz en pacientes de cirugía torácica, cardiaca, hepática, gástrica y oncológica."
+    ],
+    "resultado_general": "Evalúa la capacidad funcional del paciente quirúrgico e incorpora estrategias de prehabilitación en la planificación perioperatoria, trabajando coordinadamente con el equipo de kinesiología.",
+    "resultados_especificos": [
+      "Explica el concepto de prehabilitación multimodal, su fundamento fisiológico y la evidencia que la sustenta en los distintos tipos de cirugía.",
+      "Realiza la evaluación funcional preoperatoria (anamnesis funcional, METs/DASI, prueba de caminata de 6 minutos, pruebas de fuerza y desempeño físico) e interpreta los resultados de una prueba de esfuerzo cardiopulmonar (CPET).",
+      "Integra los resultados de la evaluación funcional en la estratificación del riesgo perioperatorio y en la toma de decisiones anestésicas.",
+      "Identifica fragilidad y sarcopenia mediante instrumentos validados y propone intervenciones para su optimización.",
+      "Fundamenta la prescripción de ejercicio aeróbico y de fuerza (principios FITT) en el contexto de la prehabilitación.",
+      "Indica estrategias de rehabilitación respiratoria perioperatoria y de movilización precoz, reconociendo las barreras anestésicas y cómo minimizarlas.",
+      "Trabaja coordinadamente con el kinesiólogo y el equipo interdisciplinario, reconociendo el rol del kinesiólogo en medicina perioperatoria.",
+      "Reflexiona críticamente sobre su práctica y su proceso de aprendizaje a través de la bitácora reflexiva y el feedback."
+    ],
+    "unidades": [
+      {
+        "nombre": "Unidad 1. Concepto de prehabilitación",
+        "contenidos": [
+          "Definición y diferencias entre prehabilitación, rehabilitación y ERAS.",
+          "Modelo de reserva fisiológica: trayectoria funcional antes y después de la cirugía.",
+          "Componentes del programa multimodal: ejercicio, nutrición, apoyo psicológico, cesación de tabaco y alcohol, optimización médica (anemia, glicemia, comorbilidades).",
+          "Ventana de oportunidad (idealmente ≥ 4 semanas) y selección de pacientes candidatos.",
+          "Evidencia principal: ensayos clínicos en cirugía colorrectal, abdominal mayor, esofagogástrica y hepática."
+        ]
+      },
+      {
+        "nombre": "Unidad 2. Evaluación funcional",
+        "contenidos": [
+          "Anamnesis funcional: METs, capacidad de subir dos pisos, Duke Activity Status Index (DASI).",
+          "Pruebas de campo: prueba de caminata de 6 minutos (TM6M), prueba de escalera, shuttle walk test.",
+          "Prueba de esfuerzo cardiopulmonar (CPET): VO2 pico, umbral anaeróbico, VE/VCO2; indicaciones e interpretación.",
+          "Evaluación de fuerza y desempeño físico: dinamometría de prensión, sentarse y pararse (5 repeticiones / 30 segundos), SPPB, velocidad de marcha, Timed Up and Go.",
+          "Fuerza muscular respiratoria: PImax y PEmax."
+        ]
+      },
+      {
+        "nombre": "Unidad 3. Capacidad aeróbica",
+        "contenidos": [
+          "Fisiología del consumo de oxígeno y del umbral anaeróbico; relación con el estrés quirúrgico.",
+          "Capacidad aeróbica como predictor de morbimortalidad postoperatoria.",
+          "Prescripción de entrenamiento aeróbico continuo e interválico de alta intensidad (HIIT): frecuencia, intensidad, tiempo y tipo (FITT).",
+          "Monitorización de la intensidad: frecuencia cardiaca de reserva, escala de Borg, carga basada en CPET."
+        ]
+      },
+      {
+        "nombre": "Unidad 4. Importancia del ejercicio de fuerza",
+        "contenidos": [
+          "Sarcopenia y pérdida de masa muscular asociada a la cirugía, al reposo y al tratamiento oncológico.",
+          "Beneficios del entrenamiento de fuerza en la recuperación funcional y la independencia.",
+          "Prescripción del ejercicio de fuerza: grupos musculares, series, repeticiones, intensidad y progresión.",
+          "Sinergia entre ejercicio de fuerza y aporte proteico."
+        ]
+      },
+      {
+        "nombre": "Unidad 5. Rehabilitación respiratoria",
+        "contenidos": [
+          "Complicaciones pulmonares postoperatorias (CPP): fisiopatología y factores de riesgo; score ARISCAT.",
+          "Entrenamiento muscular inspiratorio (IMT) preoperatorio.",
+          "Educación preoperatoria y técnicas de expansión pulmonar, tos asistida e higiene bronquial.",
+          "Particularidades en cirugía torácica (resección pulmonar) y cardiaca."
+        ]
+      },
+      {
+        "nombre": "Unidad 6. Fragilidad",
+        "contenidos": [
+          "Concepto de fragilidad y su relación con el riesgo quirúrgico.",
+          "Instrumentos: Clinical Frailty Scale, fenotipo de Fried, Edmonton Frail Scale; Liver Frailty Index en paciente hepático.",
+          "Sarcopenia según EWGSOP2.",
+          "Intervenciones de optimización en el paciente frágil y toma de decisiones compartida."
+        ]
+      },
+      {
+        "nombre": "Unidad 7. Movilización precoz",
+        "contenidos": [
+          "Consecuencias del reposo en cama y fundamento de la movilización precoz dentro de ERAS.",
+          "Objetivos de movilización: sedestación y bipedestación el día de la cirugía, deambulación desde el día 1.",
+          "Criterios de seguridad para movilizar al paciente postoperado (hemodinámicos, respiratorios, neurológicos).",
+          "Barreras relacionadas con la anestesia y cómo minimizarlas: analgesia multimodal y regional, NVPO, fluidos, drenajes y catéteres."
+        ]
+      },
+      {
+        "nombre": "Unidad 8. Rol del kinesiólogo en medicina perioperatoria",
+        "contenidos": [
+          "Competencias del kinesiólogo: evaluación funcional, prescripción y supervisión del ejercicio, kinesiterapia respiratoria, movilización y educación.",
+          "Trabajo interdisciplinario: anestesiólogo, cirujano, kinesiólogo, nutricionista, psicólogo y enfermería.",
+          "Comunicación efectiva y derivación oportuna: cuándo y cómo solicitar evaluación kinésica.",
+          "Continuidad del cuidado: prehabilitación, hospitalización y rehabilitación posterior al alta."
+        ]
+      }
+    ],
+    "actividad_clinica": "Los residentes se desempeñarán diariamente en el Servicio de Kinesiología bajo la supervisión de un staff asignado, realizando la evaluación preoperatoria funcional, la estimación del riesgo perioperatorio, el diseño y la supervisión del plan de prehabilitación junto al kinesiólogo, y el seguimiento postoperatorio (rehabilitación respiratoria y movilización precoz) de pacientes de cirugía torácica, cardiaca, hepática, gástrica y oncológica. Se espera que cada semana el residente evalúe al menos 5 pacientes y presente 1 caso clínico en la reunión con el equipo de kinesiología.",
+    "seminarios_metodologia": "Cada viernes el residente presentará un seminario asignado a un docente tutor. Formato: 30 minutos de presentación y 15 minutos de discusión. Cada seminario debe incluir un caso clínico real de la rotación, al menos 5 referencias (idealmente de los últimos 5 años, incluyendo guías o ensayos clínicos) y una diapositiva final de mensajes clave para la práctica anestésica. El material se entrega al tutor con 48 horas de anticipación.",
+    "estudio_personal": "El estudio guiado es una instancia de estudio personal, por parte del alumno, que será apoyada con la bibliografía de referencia sobre los temas tratados. Además, el residente deberá realizar búsquedas bibliográficas de material adicional (PubMed, Cochrane, guías ERAS Society) motivadas por los casos en los que participe.",
+    "bitacora": [
+      "¿Qué aprendí?",
+      "¿Qué cambió mi forma de evaluar a un paciente?",
+      "¿Qué haría distinto ahora?"
+    ],
+    "bitacora_texto": "El residente realizará un registro semanal en Canvas de una Bitácora Reflexiva (extensión sugerida: 300 a 500 palabras), con entrega cada domingo antes de las 23:59 h. El docente guía responderá con un comentario breve durante la semana siguiente. El cumplimiento y la calidad de la bitácora se consideran en el criterio 9 de la Pauta de Evaluación Global.",
+    "feedback_texto": "Se realizará feedback durante la rotación con el fin de que el residente evolucione favorablemente en su aprendizaje y desempeño: (1) feedback breve después de cada seminario; (2) feedback estructurado de mitad de rotación (viernes 13 de noviembre), aplicando la Pauta de Evaluación Global en forma formativa (sin nota); y (3) feedback final (lunes 30 de noviembre). Se usará un modelo estructurado: autoevaluación del residente, fortalezas observadas, aspectos a mejorar y plan de acción con compromisos concretos.",
+    "seminarios": [
+      {
+        "n": 1,
+        "fecha": "Viernes 6 de noviembre",
+        "titulo": "Prehabilitación quirúrgica: concepto, modelo multimodal y evidencia",
+        "origen": "Propuesto por docente",
+        "contenidos": [
+          "Definición, fundamento fisiológico y modelo de trayectoria funcional.",
+          "Componentes: ejercicio, nutrición, apoyo psicológico, cesación tabáquica, optimización médica.",
+          "Relación entre prehabilitación y ERAS.",
+          "Evidencia: ensayos clínicos (Gillis 2014, Barberan-Garcia 2018, Carli 2020, Molenaar 2023) y revisiones.",
+          "Implementación local: selección de pacientes, tiempos, barreras y adherencia."
+        ]
+      },
+      {
+        "n": 2,
+        "fecha": "Viernes 13 de noviembre",
+        "titulo": "Evaluación de la capacidad funcional: herramientas (TM6M, CPET y evaluación de fuerza)",
+        "origen": "Propuesto por docente",
+        "contenidos": [
+          "Valoración subjetiva vs. objetiva: METs, DASI y lecciones del estudio METS.",
+          "TM6M: protocolo estandarizado, valores de referencia chilenos e interpretación.",
+          "CPET: variables, umbrales de riesgo y uso para prescribir ejercicio.",
+          "Evaluación de fuerza y desempeño físico: dinamometría, sentarse-pararse, SPPB, velocidad de marcha.",
+          "Algoritmo de evaluación funcional según tipo de cirugía y recursos disponibles."
+        ]
+      },
+      {
+        "n": 3,
+        "fecha": "Viernes 20 de noviembre",
+        "titulo": "Fragilidad y sarcopenia en el paciente quirúrgico: identificación y abordaje mediante ejercicio de fuerza",
+        "origen": "Sugerido (nuevo)",
+        "justificacion": "Integra los contenidos de fragilidad e importancia del ejercicio de fuerza. Entre el 30 y el 50 % de los adultos mayores que van a cirugía mayor son frágiles, lo que más que duplica el riesgo de complicaciones, mortalidad y discapacidad, y es la población que más se beneficia de la prehabilitación.",
+        "contenidos": [
+          "Concepto de fragilidad y sarcopenia; prevalencia e impacto en resultados quirúrgicos.",
+          "Instrumentos: Clinical Frailty Scale, fenotipo de Fried, Edmonton, EWGSOP2, Liver Frailty Index.",
+          "Prescripción del ejercicio de fuerza y su sinergia con la suplementación proteica.",
+          "Implicancias anestésicas: delirio, dosificación de fármacos, decisiones compartidas y metas de cuidado."
+        ]
+      },
+      {
+        "n": 4,
+        "fecha": "Viernes 27 de noviembre",
+        "titulo": "Rehabilitación respiratoria perioperatoria y movilización precoz: prevención de complicaciones pulmonares postoperatorias",
+        "origen": "Sugerido (nuevo)",
+        "justificacion": "Une el trabajo del preoperatorio (entrenamiento muscular inspiratorio, educación) con el postoperatorio (movilización precoz) y muestra el punto donde las decisiones anestésicas (analgesia, ventilación protectora, bloqueo neuromuscular residual, fluidos) influyen directamente sobre la rehabilitación.",
+        "contenidos": [
+          "Complicaciones pulmonares postoperatorias: definición, fisiopatología, score ARISCAT.",
+          "Entrenamiento muscular inspiratorio y educación preoperatoria (evidencia Cochrane y LIPPSMAck-POP).",
+          "Movilización precoz en ERAS: objetivos, criterios de seguridad y barreras.",
+          "Rol del anestesiólogo en facilitar la movilización: analgesia multimodal y regional, NVPO, reversión del bloqueo neuromuscular."
+        ]
+      }
+    ],
+    "seminarios_alternativos": [
+      "Prescripción de ejercicio en prehabilitación: entrenamiento aeróbico continuo vs. HIIT y ejercicio de fuerza (FITT).",
+      "Prehabilitación según tipo de cirugía: torácica, cardiaca, hepatobiliar, esofagogástrica y oncológica (con neoadyuvancia).",
+      "Prehabilitación nutricional y psicológica: el componente multimodal más allá del ejercicio."
+    ],
+    "cronograma": [
+      {
+        "semana": "Semana 1 (2–6 nov)",
+        "tema": "Concepto de prehabilitación · Rol del kinesiólogo",
+        "clinica": "Inducción al servicio y flujo de pacientes. Observa y luego realiza, con supervisión, la anamnesis funcional y el TM6M.",
+        "seminario": "Seminario 1: Prehabilitación quirúrgica",
+        "otros": "Bitácora 1 (domingo 8)"
+      },
+      {
+        "semana": "Semana 2 (9–13 nov)",
+        "tema": "Evaluación funcional · Capacidad aeróbica",
+        "clinica": "Realiza evaluaciones funcionales completas (DASI, TM6M, dinamometría, SPPB). Revisa e interpreta informes de CPET con el tutor.",
+        "seminario": "Seminario 2: Evaluación de la capacidad funcional",
+        "otros": "Feedback de mitad de rotación (viernes 13) · Bitácora 2 (domingo 15)"
+      },
+      {
+        "semana": "Semana 3 (16–20 nov)",
+        "tema": "Fragilidad · Importancia del ejercicio de fuerza",
+        "clinica": "Aplica escalas de fragilidad y sarcopenia. Diseña junto al kinesiólogo planes de prehabilitación (aeróbico + fuerza) y participa en sesiones de ejercicio supervisado.",
+        "seminario": "Seminario 3: Fragilidad y sarcopenia",
+        "otros": "Bitácora 3 (domingo 22)"
+      },
+      {
+        "semana": "Semana 4 (23–27 nov)",
+        "tema": "Rehabilitación respiratoria · Movilización precoz",
+        "clinica": "Evalúa riesgo de CPP, indica IMT y educación. Seguimiento postoperatorio en sala/UCI de pacientes prehabilitados: movilización precoz.",
+        "seminario": "Seminario 4: Rehabilitación respiratoria y movilización precoz",
+        "otros": "Bitácora 4 (domingo 29)"
+      },
+      {
+        "semana": "Cierre (lunes 30 nov)",
+        "tema": "Integración",
+        "clinica": "Presentación de un caso integrador con el equipo de kinesiología.",
+        "seminario": "—",
+        "otros": "Evaluación global final y feedback de cierre"
+      }
+    ]
+  },
+  "escala": {
+    "niveles": [
+      [
+        4,
+        "Excelente"
+      ],
+      [
+        3,
+        "Bueno"
+      ],
+      [
+        2,
+        "Suficiente"
+      ],
+      [
+        1,
+        "Insuficiente"
+      ],
+      [
+        0,
+        "No logrado / ausente"
+      ]
+    ],
+    "exigencia": 0.6
+  },
+  "pauta_seminario": [
+    {
+      "criterio": "Dominio conceptual y precisión científica",
+      "peso": 0.2,
+      "d4": "Demuestra dominio profundo del tema; conceptos precisos y actualizados; integra fisiología y clínica sin errores.",
+      "d3": "Buen dominio del tema con imprecisiones menores que no afectan el mensaje.",
+      "d2": "Dominio básico; algunos errores conceptuales o información desactualizada.",
+      "d1": "Dominio insuficiente; errores conceptuales relevantes."
+    },
+    {
+      "criterio": "Estructura, organización y objetivos",
+      "peso": 0.1,
+      "d4": "Objetivos explícitos; secuencia lógica (introducción, desarrollo, conclusiones); transiciones claras.",
+      "d3": "Estructura adecuada con pequeñas faltas de secuencia.",
+      "d2": "Estructura poco clara; objetivos implícitos o incompletos.",
+      "d1": "Presentación desordenada, sin objetivos ni conclusiones."
+    },
+    {
+      "criterio": "Búsqueda y calidad de la bibliografía",
+      "peso": 0.15,
+      "d4": "≥ 5 referencias pertinentes, actualizadas (guías, ensayos clínicos, revisiones sistemáticas), correctamente citadas.",
+      "d3": "Referencias pertinentes y adecuadas, con alguna fuente desactualizada o cita incompleta.",
+      "d2": "Pocas referencias o predominio de fuentes secundarias de baja calidad.",
+      "d1": "Bibliografía ausente, irrelevante o no citada."
+    },
+    {
+      "criterio": "Análisis crítico de la evidencia",
+      "peso": 0.15,
+      "d4": "Analiza el diseño, la calidad y las limitaciones de los estudios; distingue niveles de evidencia y su aplicabilidad local.",
+      "d3": "Analiza la evidencia con algunas omisiones en limitaciones o aplicabilidad.",
+      "d2": "Describe los estudios sin análisis crítico.",
+      "d1": "No presenta evidencia o la interpreta erróneamente."
+    },
+    {
+      "criterio": "Aplicación clínica e integración perioperatoria (caso clínico)",
+      "peso": 0.2,
+      "d4": "Integra un caso real de la rotación; traduce la evidencia en decisiones concretas de evaluación, prehabilitación y manejo anestésico, en coordinación con kinesiología.",
+      "d3": "Presenta un caso y lo vincula con el tema, con integración parcial al manejo anestésico.",
+      "d2": "Caso poco relacionado o aplicación clínica genérica.",
+      "d1": "Sin caso clínico ni aplicación práctica."
+    },
+    {
+      "criterio": "Material de apoyo audiovisual",
+      "peso": 0.05,
+      "d4": "Diapositivas claras, legibles, sin sobrecarga de texto; gráficos y tablas que facilitan la comprensión.",
+      "d3": "Material adecuado con exceso puntual de texto o algún elemento poco legible.",
+      "d2": "Material recargado o de difícil lectura.",
+      "d1": "Material ausente o que dificulta la comprensión."
+    },
+    {
+      "criterio": "Comunicación oral y manejo del tiempo",
+      "peso": 0.05,
+      "d4": "Expone con fluidez, lenguaje técnico apropiado, contacto visual; respeta el tiempo (30 ± 3 min).",
+      "d3": "Buena comunicación; desviación menor del tiempo (± 5 min).",
+      "d2": "Lee gran parte de la presentación o se desvía del tiempo > 5 min.",
+      "d1": "Comunicación deficiente; no logra completar la presentación en el tiempo."
+    },
+    {
+      "criterio": "Respuesta a preguntas y conducción de la discusión",
+      "peso": 0.1,
+      "d4": "Responde con fundamento, reconoce límites del conocimiento y promueve la discusión.",
+      "d3": "Responde adecuadamente la mayoría de las preguntas.",
+      "d2": "Respuestas parciales o poco fundamentadas.",
+      "d1": "No logra responder o lo hace de forma incorrecta."
+    }
+  ],
+  "pauta_global": [
+    {
+      "criterio": "Evaluación funcional preoperatoria",
+      "peso": 0.15,
+      "d4": "Realiza en forma autónoma y sistemática la anamnesis funcional (METs, DASI) y aplica e interpreta correctamente TM6M, pruebas de fuerza y SPPB.",
+      "d3": "Realiza la evaluación completa con supervisión mínima y errores menores de interpretación.",
+      "d2": "Realiza la evaluación con supervisión frecuente; omite componentes o interpreta parcialmente.",
+      "d1": "Evaluación incompleta o incorrecta pese a la supervisión."
+    },
+    {
+      "criterio": "Estratificación del riesgo e integración de resultados (incluye CPET)",
+      "peso": 0.15,
+      "d4": "Integra capacidad funcional, fragilidad y riesgo pulmonar/cardiaco (ARISCAT, CFS, umbrales de CPET) y las traduce en decisiones anestésicas fundamentadas.",
+      "d3": "Estratifica el riesgo correctamente con integración parcial a la planificación anestésica.",
+      "d2": "Estratifica el riesgo con herramientas aisladas, sin integrar los resultados.",
+      "d1": "No logra estimar el riesgo o lo hace de forma errónea."
+    },
+    {
+      "criterio": "Planificación de la prehabilitación multimodal",
+      "peso": 0.15,
+      "d4": "Propone un plan individualizado (ejercicio aeróbico y de fuerza con FITT, IMT, nutrición, apoyo psicológico, tabaco, anemia) con plazos realistas.",
+      "d3": "Propone un plan adecuado, con algún componente poco individualizado.",
+      "d2": "Plan genérico, limitado a uno o dos componentes.",
+      "d1": "No logra proponer un plan coherente."
+    },
+    {
+      "criterio": "Rehabilitación respiratoria y movilización precoz",
+      "peso": 0.1,
+      "d4": "Indica y fundamenta IMT, técnicas respiratorias y metas de movilización; identifica y resuelve barreras anestésicas para movilizar.",
+      "d3": "Indica estrategias adecuadas con fundamentación parcial.",
+      "d2": "Conoce las estrategias pero no las aplica al caso particular.",
+      "d1": "Desconoce las estrategias o las indica erróneamente."
+    },
+    {
+      "criterio": "Trabajo coordinado con kinesiología y el equipo interdisciplinario",
+      "peso": 0.1,
+      "d4": "Se integra activamente; respeta y valora el rol del kinesiólogo; comunica en forma clara y oportuna; deriva adecuadamente.",
+      "d3": "Trabaja en equipo de forma adecuada con oportunidades menores de mejora en la comunicación.",
+      "d2": "Participación pasiva o comunicación poco oportuna.",
+      "d1": "Dificultades para trabajar en equipo o desconoce roles."
+    },
+    {
+      "criterio": "Comunicación con el paciente y la familia; educación",
+      "peso": 0.1,
+      "d4": "Explica con lenguaje claro la evaluación y el plan; promueve la adherencia; considera preferencias del paciente.",
+      "d3": "Comunicación adecuada con oportunidades menores de mejora.",
+      "d2": "Comunicación técnica o poco empática; educación insuficiente.",
+      "d1": "Comunicación inadecuada con el paciente o la familia."
+    },
+    {
+      "criterio": "Registro clínico y presentación de casos",
+      "peso": 0.05,
+      "d4": "Registros completos, oportunos y legibles; presenta casos de forma concisa y estructurada.",
+      "d3": "Registros y presentaciones adecuados con omisiones menores.",
+      "d2": "Registros incompletos o presentaciones desordenadas.",
+      "d1": "No registra o lo hace de manera deficiente."
+    },
+    {
+      "criterio": "Profesionalismo (puntualidad, responsabilidad, ética, trato)",
+      "peso": 0.1,
+      "d4": "Puntual, responsable, proactivo; trato respetuoso con pacientes y equipo; conducta ética intachable.",
+      "d3": "Cumple adecuadamente; faltas menores aisladas.",
+      "d2": "Faltas reiteradas de puntualidad o responsabilidad.",
+      "d1": "Faltas graves de profesionalismo."
+    },
+    {
+      "criterio": "Aprendizaje autodirigido y bitácora reflexiva",
+      "peso": 0.05,
+      "d4": "Entrega las 4 bitácoras a tiempo con reflexión profunda; busca bibliografía motivada por sus casos.",
+      "d3": "Entrega las bitácoras con reflexión adecuada; algún atraso menor.",
+      "d2": "Bitácoras descriptivas, poco reflexivas o con atrasos.",
+      "d1": "No entrega bitácoras o son superficiales."
+    },
+    {
+      "criterio": "Receptividad y respuesta al feedback",
+      "peso": 0.05,
+      "d4": "Solicita feedback, lo acepta y demuestra mejoras concretas.",
+      "d3": "Acepta el feedback e incorpora la mayoría de las sugerencias.",
+      "d2": "Acepta el feedback pero muestra pocos cambios.",
+      "d1": "No acepta el feedback o no muestra cambios."
+    }
+  ],
+  "bibliografia_basica": [
+    "Gillis C, Ljungqvist O, Carli F. Prehabilitation, enhanced recovery after surgery, or both? A narrative review. Br J Anaesth. 2022;128(3):434-448. PMID: 35012741.",
+    "Carli F, Bousquet-Dion G, Awasthi R, et al. Effect of multimodal prehabilitation vs postoperative rehabilitation on 30-day postoperative complications for frail patients undergoing resection of colorectal cancer: a randomized clinical trial. JAMA Surg. 2020;155(3):233-242. PMID: 31968063.",
+    "Molenaar CJL, Minnella EM, Coca-Martinez M, et al. Effect of multimodal prehabilitation on reducing postoperative complications and enhancing functional capacity following colorectal cancer surgery: the PREHAB randomized clinical trial. JAMA Surg. 2023;158(6):572-581. PMID: 36988937.",
+    "Levett DZH, Jack S, Swart M, et al. Perioperative cardiopulmonary exercise testing (CPET): consensus clinical guidelines on indications, organization, conduct, and physiological interpretation. Br J Anaesth. 2018;120(3):484-500. PMID: 29452805.",
+    "Wijeysundera DN, Pearse RM, Shulman MA, et al. Assessment of functional capacity before major non-cardiac surgery: an international, prospective cohort study (METS). Lancet. 2018;391(10140):2631-2640. PMID: 30070222.",
+    "ATS Committee on Proficiency Standards for Clinical Pulmonary Function Laboratories. ATS statement: guidelines for the six-minute walk test. Am J Respir Crit Care Med. 2002;166(1):111-117. PMID: 12091180.",
+    "McIsaac DI, MacDonald DB, Aucoin SD. Frailty for perioperative clinicians: a narrative review. Anesth Analg. 2020;130(6):1450-1460. PMID: 32384334.",
+    "Cruz-Jentoft AJ, Bahat G, Bauer J, et al. Sarcopenia: revised European consensus on definition and diagnosis (EWGSOP2). Age Ageing. 2019;48(1):16-31. PMID: 30312372.",
+    "Boden I, Skinner EH, Browning L, et al. Preoperative physiotherapy for the prevention of respiratory complications after upper abdominal surgery: pragmatic, double blinded, multicentre randomised controlled trial (LIPPSMAck POP). BMJ. 2018;360:j5916. PMID: 29367198.",
+    "Halvorsen S, Mehilli J, Cassese S, et al. 2022 ESC Guidelines on cardiovascular assessment and management of patients undergoing non-cardiac surgery. Eur Heart J. 2022;43(39):3826-3924. PMID: 36017553."
+  ],
+  "bibliografia_complementaria": [
+    "Gillis C, Li C, Lee L, et al. Prehabilitation versus rehabilitation: a randomized control trial in patients undergoing colorectal resection for cancer. Anesthesiology. 2014;121(5):937-947. PMID: 25076007.",
+    "Barberan-Garcia A, Ubré M, Roca J, et al. Personalised prehabilitation in high-risk patients undergoing elective major abdominal surgery: a randomized blinded controlled trial. Ann Surg. 2018;267(1):50-56. PMID: 28489682.",
+    "Minnella EM, Awasthi R, Loiselle SE, et al. Effect of exercise and nutrition prehabilitation on functional capacity in esophagogastric cancer surgery: a randomized clinical trial. JAMA Surg. 2018;153(12):1081-1089. PMID: 30193337.",
+    "Dunne DF, Jack S, Jones RP, et al. Randomized clinical trial of prehabilitation before planned liver resection. Br J Surg. 2016;103(5):504-512. PMID: 26864728.",
+    "Older P, Hall A, Hader R. Cardiopulmonary exercise testing as a screening test for perioperative management of major surgery in the elderly. Chest. 1999;116(2):355-362. PMID: 10453862.",
+    "Holland AE, Spruit MA, Troosters T, et al. An official European Respiratory Society/American Thoracic Society technical standard: field walking tests in chronic respiratory disease. Eur Respir J. 2014;44(6):1428-1446. PMID: 25359355.",
+    "Osses R, Yáñez J, Barría P, et al. Prueba de caminata en seis minutos en sujetos chilenos sanos de 20 a 80 años [Reference values for the 6-minutes walking test in healthy subjects 20-80 years old]. Rev Med Chil. 2010;138(9):1124-1130. PMID: 21249280.",
+    "Enright PL, Sherrill DL. Reference equations for the six-minute walk in healthy adults. Am J Respir Crit Care Med. 1998;158(5):1384-1387. PMID: 9817683.",
+    "Hlatky MA, Boineau RE, Higginbotham MB, et al. A brief self-administered questionnaire to determine functional capacity (the Duke Activity Status Index). Am J Cardiol. 1989;64(10):651-654. PMID: 2782256.",
+    "Fried LP, Tangen CM, Walston J, et al. Frailty in older adults: evidence for a phenotype. J Gerontol A Biol Sci Med Sci. 2001;56(3):M146-156. PMID: 11253156.",
+    "Rockwood K, Song X, MacKnight C, et al. A global clinical measure of fitness and frailty in elderly people. CMAJ. 2005;173(5):489-495. PMID: 16129869.",
+    "Guralnik JM, Simonsick EM, Ferrucci L, et al. A short physical performance battery assessing lower extremity function. J Gerontol. 1994;49(2):M85-94. PMID: 8126356.",
+    "Roberts HC, Denison HJ, Martin HJ, et al. A review of the measurement of grip strength in clinical and epidemiological studies: towards a standardised approach. Age Ageing. 2011;40(4):423-429. PMID: 21624928.",
+    "Fragala MS, Cadore EL, Dorgo S, et al. Resistance training for older adults: position statement from the National Strength and Conditioning Association. J Strength Cond Res. 2019;33(8):2019-2052. PMID: 31343601.",
+    "Canet J, Gallart L, Gomar C, et al. Prediction of postoperative pulmonary complications in a population-based surgical cohort (ARISCAT). Anesthesiology. 2010;113(6):1338-1350. PMID: 21045639.",
+    "Katsura M, Kuriyama A, Takeshima T, et al. Preoperative inspiratory muscle training for postoperative pulmonary complications in adults undergoing cardiac and major abdominal surgery. Cochrane Database Syst Rev. 2015;(10):CD010356. PMID: 26436600.",
+    "Brunelli A, Kim AW, Berger KI, Addrizzo-Harris DJ. Physiologic evaluation of the patient with lung cancer being considered for resectional surgery: ACCP evidence-based clinical practice guidelines. Chest. 2013;143(5 Suppl):e166S-e190S. PMID: 23649437.",
+    "Thompson A, Fleischmann KE, Smilowitz NR, et al. 2024 AHA/ACC/ACS/ASNC/HRS/SCA/SCCT/SCMR/SVM Guideline for perioperative cardiovascular management for noncardiac surgery. Circulation. 2024;150(19):e351-e442. PMID: 39316661.",
+    "Gustafsson UO, Scott MJ, Hubner M, et al. Guidelines for perioperative care in elective colorectal surgery: Enhanced Recovery After Surgery (ERAS) Society recommendations: 2018. World J Surg. 2019;43(3):659-695. PMID: 30426190.",
+    "Batchelor TJP, Rasburn NJ, Abdelnour-Berchtold E, et al. Guidelines for enhanced recovery after lung surgery: recommendations of the ERAS Society and the European Society of Thoracic Surgeons (ESTS). Eur J Cardiothorac Surg. 2019;55(1):91-115. PMID: 30304509.",
+    "Engelman DT, Ben Ali W, Williams JB, et al. Guidelines for perioperative care in cardiac surgery: Enhanced Recovery After Surgery Society recommendations. JAMA Surg. 2019;154(8):755-766. PMID: 31054241.",
+    "Melloul E, Hübner M, Scott M, et al. Guidelines for perioperative care for liver surgery: Enhanced Recovery After Surgery (ERAS) Society recommendations. World J Surg. 2016;40(10):2425-2440. PMID: 27549599.",
+    "Mortensen K, Nilsson M, Slim K, et al. Consensus guidelines for enhanced recovery after gastrectomy: Enhanced Recovery After Surgery (ERAS) Society recommendations. Br J Surg. 2014;101(10):1209-1229. PMID: 25047143."
+  ]
+}
